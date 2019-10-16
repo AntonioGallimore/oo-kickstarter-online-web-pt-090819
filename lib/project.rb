@@ -6,6 +6,7 @@ class Project
   end
   
   def backer
-    @
+    @backer = []
+  end
   
 end
